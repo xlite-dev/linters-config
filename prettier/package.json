@@ -9,12 +9,12 @@
     "prettier-config"
   ],
   "bugs": {
-    "url": "https://github.com/xlite-dev/configs/issues"
+    "url": "https://github.com/xlite-dev/linters-config/issues"
   },
-  "homepage": "https://github.com/xlite-dev/configs/tree/master/prettier",
+  "homepage": "https://github.com/xlite-dev/linters-config/tree/master/prettier",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xlite-dev/configs/tree/master/prettier"
+    "url": "https://github.com/xlite-dev/linters-config/tree/master/prettier"
   },
   "main": "index.js",
   "files": [
