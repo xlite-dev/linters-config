@@ -1,0 +1,26 @@
+{
+  "name": "prettier-config-xld",
+  "version": "1.0.1",
+  "description": "Prettier config ready to be used in xlite-dev projects",
+  "author": "xlite-dev",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "bugs": {
+    "url": "https://github.com/xlite-dev/configs/issues"
+  },
+  "homepage": "https://github.com/xlite-dev/configs/tree/master/prettier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xlite-dev/configs/tree/master/prettier"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "prettier": "^2.3.2"
+  }
+}
