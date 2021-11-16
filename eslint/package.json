@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xld",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint config ready to be used in xlite-dev projects",
   "author": "xlite-dev",
   "license": "MIT",

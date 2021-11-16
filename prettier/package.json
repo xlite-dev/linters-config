@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-xld",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prettier config ready to be used in xlite-dev projects",
   "author": "xlite-dev",
   "license": "MIT",
