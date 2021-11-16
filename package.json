@@ -1,0 +1,17 @@
+{
+  "name": "linters-config-xld",
+  "version": "1.0.0",
+  "description": "Linters config ready to be used in xlite-dev projects",
+  "author": "xlite-dev",
+  "license": "MIT",
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/xlite-dev/linters-config/issues"
+  },
+  "homepage": "https://github.com/xlite-dev/linters-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xlite-dev/linters-config"
+  },
+  "dependencies": {}
+}

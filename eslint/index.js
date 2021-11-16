@@ -6,7 +6,7 @@ module.exports = {
     'plugin:import/errors',
     'plugin:import/warnings',
     'plugin:prettier/recommended',
-    'airbnb'
+    'airbnb',
   ],
   env: {
     browser: true,
@@ -40,6 +40,7 @@ module.exports = {
     'comma-dangle': ['error', 'always-multiline'],
     'object-curly-newline': 'off',
     'operator-linebreak': 'off',
+    semi: true,
 
     // Rules for https://github.com/benmosher/eslint-plugin-import
     'import/order': ['error', { 'newlines-between': 'always' }],
