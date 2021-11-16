@@ -40,7 +40,7 @@ module.exports = {
     'comma-dangle': ['error', 'always-multiline'],
     'object-curly-newline': 'off',
     'operator-linebreak': 'off',
-    semi: true,
+    semi: ['error', 'always'],
 
     // Rules for https://github.com/benmosher/eslint-plugin-import
     'import/order': ['error', { 'newlines-between': 'always' }],
@@ -58,4 +58,4 @@ module.exports = {
     'react/jsx-tag-spacing': 'error',
     'react/jsx-props-no-spreading': 'off',
   },
-}
+};
